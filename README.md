@@ -1,7 +1,7 @@
 <h1 align="center">Hi :metal:, I'm Gabriel Elias Knupp</h1>
 <h3 align="center">Enthusiast of technology and web development</h3>
 
-- 🔭 I’m currently working on **Front-End development**
+- :pushpin: I’m currently working on **Front-End development**
 
 - :runner: I am currently perfecting myself in **HTML5,CSS3 and JavaScript**
 
