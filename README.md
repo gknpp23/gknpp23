@@ -1,4 +1,4 @@
-<!-- ![Banner](link da imagem) -->
+![Banner](https://github.com/gknpp23/gknpp23/blob/main/websites-banner.jpg?raw=true)
 <h1 align="center">Hi :metal: , I'm Gabriel Elias Knupp</h1>
 <h3 align="center">Enthusiast of technology and web development</h3>
 
