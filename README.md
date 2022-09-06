@@ -1,10 +1,10 @@
-![Banner](https://github.com/gknpp23/gknpp23/blob/main/websites-banner.jpg?raw=true)
-
 <h1 align="center">Hi :metal: , I'm Gabriel Knupp</h1>
 <h3 align="center">Enthusiast of technology and web development</h3>
 <br><br>
-<div align="justify">
-
+<table>
+ <tr> 
+   <td>
+     
 - 🔭 I’m currently working on **Front-End development**
 
 - 🌱I am currently perfecting myself in **HTML5,CSS3 and JavaScript**
@@ -17,8 +17,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-knupp-7908a31a0/](https://www.linkedin.com/in/gabriel-knupp-7908a31a0/)
 
-- ⚡ Fun fact **I have very profitable ideas, I just haven't discovered them yet**
-<div>
+- ⚡ Fun fact **I have very profitable ideas, I just haven't discovered them yet**</td>
+
+   <td><img src="https://github.com/gknpp23/gknpp23/blob/main/Octobit%20Day%204%20Spacesuit.gif" width="400"></td>
+ </tr>
+</table>
+
 <br>
 <hr>
 <br>
@@ -30,11 +34,17 @@
 <a href="https://linkedin.com/in/gabriel knupp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel knupp" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielknpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielknpp" height="30" width="40" /></a>
 </p>
+<br><br>
+<hr>
 <br><br><br>
 
-<div align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gknpp23&show_icons=true&theme=dark&locale=en&layout=compact" alt="gknpp23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&theme=dark&locale=en" alt="gknpp23" /></p>
-</div>
-
+<table align="center">
+ <tr> 
+   <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gknpp23&show_icons=true&theme=dark&locale=en&layout=compact" alt="gknpp23"/>
+   </td>
+   <td>
+     &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&theme=dark&locale=en" alt="gknpp23" />
+   </td>
+ </tr>
+</table>
