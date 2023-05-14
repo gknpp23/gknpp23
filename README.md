@@ -1,6 +1,7 @@
 <h1 align="center">Hi :metal: , I'm Gabriel Knupp</h1>
 <h3 align="center">Enthusiast of technology and web development</h3>
 <br><br>
+<img src="https://github.com/gknpp23/gknpp23/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png?raw=true" width="1000">
 <table>
  <tr> 
    <td>
