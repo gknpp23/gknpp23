@@ -1,4 +1,4 @@
-<h1 align="center">Hi :metal: , Welcome to my profile</h1>
+<h1 align="center">Hi guys :metal: , Welcome to my profile</h1>
 <br><br>
 <img src="1.png" width="1000">
      
