@@ -13,7 +13,7 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-161637?style=for-the-badge&logo=figma&logoColor=white" />
-     <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-430098?style=for-the-badge&logo=netlify&logoColor=white" /><br>
+     <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-430098?style=for-the-badge&logo=netlify&logoColor=white" />
      <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div><br>
 <br>
