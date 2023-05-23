@@ -27,7 +27,10 @@
   <a href="https://www.instagram.com/gabrielknpp/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="https://discord.gg/hCTcY5es"> 
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp;  
+ 
   
 </p>
 <hr>
