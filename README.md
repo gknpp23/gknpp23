@@ -35,7 +35,7 @@
 </p>
 <hr>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&bg_color=000000&theme=shadow_red&locale=en">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&text_color=ffffff&bg_color=000000&theme=shadow_red&locale=en">
 
 
 <br><hr>
