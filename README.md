@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=700&size=60&pause=1000&color=BA1718&background=000000&center=true&vCenter=true&width=1000&height=51&lines=Hello+There+!+;Welcome+to+my+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=700&size=60&pause=1000&color=BA1718&background=000000&center=true&vCenter=true&width=1000&height=64&lines=Hello+There+!+;Welcome+to+my+profile" alt="Typing SVG" /></a>
 
 <img src="1.png" width="1000">
      
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 <br>
 <div align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@
      <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div><br>
 <br>
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h2>
 <br>
 <p align='center'>
   
