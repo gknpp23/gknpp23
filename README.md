@@ -35,6 +35,8 @@
 </p>
 <hr>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&theme=great-gatsby&locale=en">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&bg_color=000000&theme=shadow_red&locale=en">
+
+
 <br><hr>
 <h2 align="center"> <em>&lt;/&gt;</em>  by <a href=https://github.com/gknpp23" target="_blank">Gabriel Knupp</a> </h2>
