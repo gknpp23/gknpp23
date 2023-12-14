@@ -9,7 +9,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-     <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-38B2AC?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Angular-ff0100?style=for-the-badge&logo=angular&logoColor=white"  />
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-161637?style=for-the-badge&logo=figma&logoColor=white" /><br><br>
