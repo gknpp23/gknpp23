@@ -40,7 +40,7 @@
 
 <div align="center">
     <img align="center" swidth="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gknpp23&show_icons=true&count_private=true&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000" alt="gknpp23 github stats"/>
-     <span width="1200px">_____________</span>
+     <br><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gknpp23&layout=compact&&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000">
   
 </div>   
