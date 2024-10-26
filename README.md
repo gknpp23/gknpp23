@@ -37,8 +37,15 @@
 </p>
 <hr>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&text_color=ffffff&bg_color=000000&theme=shadow_red&locale=en">
 
+<div align="center">
+    <img align="center" swidth="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gknpp23&show_icons=true&count_private=true&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000" alt="gknpp23 github stats"/>
+     <span width="1200px">_____________</span>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gknpp23&layout=compact&&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000">
+  
+</div>   
 
+ 
 <br><hr>
+ 
 <h2 align="center"> <em>&lt;/&gt;</em>  by <a href="https://github.com/gknpp23" target="_blank">Gabriel Knupp</a> </h2>
