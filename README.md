@@ -12,7 +12,8 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-0078D4?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-ff0100?style=for-the-badge&logo=angular&logoColor=white"  />
   <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-0078D4?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />     
   <img align="center" alt="git" src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" /><br><br>
   <img align="center" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
