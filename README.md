@@ -1,4 +1,4 @@
-<img src="Black White Minimalist Twitch Offline Banner.png" width="1000">
+<img src="banner.png" width="1000">
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=900&size=60&pause=1000&color=BA1718&background=000000&center=true&vCenter=true&width=1000&height=64&lines=Hello+There+!+;Welcome+to+my+profile" alt="Typing SVG" /></a>-->
 
      
