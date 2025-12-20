@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Banner01.png" alt="Gabriel Knvpp Banner" width="100%" />
+  <img src="Banner.png" alt="Gabriel Knvpp Banner" width="100%" />
 </p>
 
 <!-- Optional thin divider -->
