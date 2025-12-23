@@ -61,7 +61,23 @@ Payment flow for digital products with webhook-based automation.
         alt="GitHub Stats"
       />
     </td>
-    <td> <pre width="70px">  
+    <td> <pre width="70px"> 
+             ^
+            /A\
+           //I\\
+          ///I\\\
+         ////I\\\\
+        /////I\\\\\
+       //////I\\\\\\
+      ///////I\\\\\\\
+     ////////I\\\\\\\\
+    /////////I\\\\\\\\\
+   //////////I\\\\\\\\\\
+    '////////I\\\\\\\\'
+      '//////I\\\\\\'
+        '////I\\\\'
+          '//I\\'
+            'I'
     </pre> </td>
     <td>
       <img
