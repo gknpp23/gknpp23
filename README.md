@@ -52,7 +52,7 @@ Payment flow for digital products with webhook-based automation.
 ## GitHub Stats
 
 <!-- GitHub Readme Stats (dark theme) -->
-<table align='center'>
+<table>
   <tr>
     <td>
       <img
@@ -61,24 +61,21 @@ Payment flow for digital products with webhook-based automation.
         alt="GitHub Stats"
       />
     </td>
-    <td> <pre width="70px"> 
-             ^
-            /A\
-           //I\\
-          ///I\\\
-         ////I\\\\
-        /////I\\\\\
-       //////I\\\\\\
-      ///////I\\\\\\\
-     ////////I\\\\\\\\
-    /////////I\\\\\\\\\
-   //////////I\\\\\\\\\\
-    '////////I\\\\\\\\'
-      '//////I\\\\\\'
-        '////I\\\\'
-          '//I\\'
-            'I'
-    </pre> </td>
+    <td>
+      <pre> 
+  ,  /\  .
+ //`-||-'\\
+(| -=||=- |)
+ \\,-||-.//
+  `  ||  '
+     ||
+     ||
+     ||
+     ||
+     ||
+     ()
+      </pre> 
+    </td>
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gknpp23&layout=compact&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000"
