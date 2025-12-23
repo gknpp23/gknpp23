@@ -8,11 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" />
 </p>
 
+
 ## About
 
 Full-stack developer focused on **automation, scalable systems and clean architecture**.  
 Strong background in **Angular, TypeScript and Python**, with real-world experience in **network automation and backend workflows**.
-
 
 
 ---
@@ -91,11 +91,12 @@ Payment flow for digital products with webhook-based automation.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI)
-- [Instagram](https://www.instagram.com/SEU-LINK-AQUI)
-- [Discord](https://discord.com/users/SEU-ID-AQUI)
+- [LinkedIn](https://www.linkedin.com/in/)
+- [Instagram](https://www.instagram.com/)
+- [Discord](https://discord.com/users/)
 
 ---
+
 
 <sub>built by Gabriel Knupp</sub>
 
