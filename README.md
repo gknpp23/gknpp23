@@ -13,7 +13,7 @@
 Full-stack developer focused on **automation, scalable systems and clean architecture**.  
 Strong background in **Angular, TypeScript and Python**, with real-world experience in **network automation and backend workflows**.
 
-I build things that **solve problems**, not just look good.
+
 
 ---
 
