@@ -52,21 +52,27 @@ Payment flow for digital products with webhook-based automation.
 ## GitHub Stats
 
 <!-- GitHub Readme Stats (dark theme) -->
-<p align="left">
- <!-- <img
-    src="https://github-readme-stats.vercel.app/api?username=gknpp23&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=dark&bg_color=0d0d0d&title_color=ff0000&icon_color=ff0000&text_color=e6e6e6&border_color=330000"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gknpp23&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=e6e6e6&border_color=330000"
-    height="165"
-    alt="Top Languages"
-  /> -->
-   <img align="center" swidth="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gknpp23&show_icons=true&count_private=true&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000" alt="gknpp23 github stats"/>
-     
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gknpp23&layout=compact&&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000">
-</p>
+<table align='center'>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=gknpp23&show_icons=true&count_private=true&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000"
+        height="195"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td> <pre width="70px">  
+    </pre> </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gknpp23&layout=compact&border_color=4F0000&title_color=9A0000&text_color=f0f0f0&bg_color=000&icon_color=4F0000"
+        height="195"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
