@@ -57,14 +57,30 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
   <img src="SECTION03.png" alt="Projects section" width="24%" />
 </p>
 
-
-### PoseEdit
-Real-time pose detection overlay for streamers using WebSockets and MediaPipe.  
-`FastAPI · WebSockets · Next.js`
-
-### CourseCheckout
-Payment flow for digital products with webhook-based automation.  
-`Angular · Node.js · AbacatePay`
+<table>
+  <tr>
+    <!-- PoseEdit -->
+    <td width="50%" valign="top">
+      <h3>PoseEdit</h3>
+      Real-time pose detection overlay for streamers using WebSockets and MediaPipe.<br><br>
+      <sub>
+        <code>FastAPI</code> · <code>WebSockets</code> · <code>Next.js</code>
+      </sub><br><br>
+      <a href="https://github.com/gknpp23/Pose-Random-Image-Detector">Open project →</a>
+      <br><br>
+    </td>
+    <!-- CourseCheckout -->
+    <td width="50%" valign="top">
+      <h3>CourseCheckout</h3>
+      Payment flow for digital products with webhook-based automation.<br><br>
+      <sub>
+        <code>Angular</code> · <code>Node.js</code> · <code>AbacatePay</code>
+      </sub><br><br>
+      <a href="https://github.com/gknpp23/CourseCheckout">Open project →</a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -131,7 +147,8 @@ Payment flow for digital products with webhook-based automation.
 <sub>built by Gabriel Knupp</sub>
 
 
-    
+
+
     
 
   
