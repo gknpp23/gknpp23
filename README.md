@@ -3,9 +3,9 @@
   <img src="Banner.png" alt="Gabriel Knvpp Banner" width="100%" />
 </p>
 
-<!-- Optional thin divider -->
+<!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=5&section=header" width="100%"/>
 </p>
 
 
@@ -19,7 +19,7 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 </p>
 
 <p align="left">
@@ -49,7 +49,7 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
  
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 </p>
 
 
@@ -82,7 +82,9 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
+</p>
 
 <p align="left">
   <img src="SECTION04.png" alt="Stats section" width="20%" />
@@ -127,7 +129,7 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 </p>
 
 <p align="left">
@@ -140,7 +142,7 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%"/>
 </p>
 
 
