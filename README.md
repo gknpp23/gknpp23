@@ -5,7 +5,7 @@
 
 <!-- Optional thin divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
 </p>
 
 
@@ -17,29 +17,40 @@ Full-stack developer focused on **automation, scalable systems and clean archite
 Strong background in **Angular, TypeScript and Python**, with real-world experience in **network automation and backend workflows**.
 
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+</p>
 
 <p align="left">
   <img src="SECTION02.png" alt="Stack sectionr" width="12%" />
 </p>
 
 ### Frontend
-- Angular  
-- TypeScript  
-- HTML / CSS  
+
+♦️ Angular  
+♦️ TypeScript  
+♦️ HTML / CSS 
 
 ### Backend
-- Node.js  
-- Express  
-- Python  
+♠️ Node.js  
+♠️ Express  
+♠️ Python / Django
 
 ### Tools
-- Git  
-- Docker  
-- VS Code  
-- Figma  
+♥️ Git  
+♥️ Docker  
+♥️ Figma 
 
----
+### Automation & Infrastructure
+♣️ Ngix     
+♣️ Airflow            
+♣️ SQL              
+ 
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+</p>
 
 
 <p align="left">
@@ -98,7 +109,10 @@ Payment flow for digital products with webhook-based automation.
 </table>
 
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+</p>
 
 <p align="left">
   <img src="SECTION05.png" alt="Social section" width="12%" />
@@ -108,7 +122,10 @@ Payment flow for digital products with webhook-based automation.
 - [Instagram](https://www.instagram.com/)
 - [Discord](https://discord.com/users/)
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=2&section=header" width="100%" height="5%"/>
+</p>
 
 
 <sub>built by Gabriel Knupp</sub>
