@@ -9,7 +9,9 @@
 </p>
 
 
-## About
+<p align="left">
+  <img src="SECTION01.png" alt="About sectionr" width="12%" />
+</p>
 
 Full-stack developer focused on **automation, scalable systems and clean architecture**.  
 Strong background in **Angular, TypeScript and Python**, with real-world experience in **network automation and backend workflows**.
@@ -17,7 +19,9 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
 
 ---
 
-## Stack
+<p align="left">
+  <img src="SECTION02.png" alt="Stack sectionr" width="12%" />
+</p>
 
 ### Frontend
 - Angular  
@@ -37,7 +41,11 @@ Strong background in **Angular, TypeScript and Python**, with real-world experie
 
 ---
 
-## Selected Projects
+
+<p align="left">
+  <img src="SECTION03.png" alt="Projects section" width="24%" />
+</p>
+
 
 ### PoseEdit
 Real-time pose detection overlay for streamers using WebSockets and MediaPipe.  
@@ -49,7 +57,10 @@ Payment flow for digital products with webhook-based automation.
 
 ---
 
-## GitHub Stats
+<p align="left">
+  <img src="SECTION04.png" alt="Stats section" width="20%" />
+</p>
+
 
 <!-- GitHub Readme Stats (dark theme) -->
 <table>
@@ -89,7 +100,9 @@ Payment flow for digital products with webhook-based automation.
 
 ---
 
-## Contact
+<p align="left">
+  <img src="SECTION05.png" alt="Social section" width="12%" />
+</p>
 
 - [LinkedIn](https://www.linkedin.com/in/)
 - [Instagram](https://www.instagram.com/)
